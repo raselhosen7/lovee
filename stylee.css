@@ -1,0 +1,15 @@
+*{
+	margin: 0px auto;
+	padding: 0px;
+}
+img{
+	width: 100%;
+	height: 100vh;
+	background-image: url(i.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.ful-content{
+	max-width: 800px;
+	margin: auto;
+}
